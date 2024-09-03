@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container{
+    display: flex;
+}
+.container ul{
+    overflow: hidden;
+    max-width: 1200px;
+    height: 400px;
+    display: flex;
+    gap: 5px;
+}
+
+.container ul li{
+    position: relative;
+    animation: slide 20s infinite ease-out;
+}
+
+.carousel-controls-left{
+  
+ margin-right: 20px;
+  
+}
+
+.carousel-controls-right{
+    margin-left: 20px;
+}

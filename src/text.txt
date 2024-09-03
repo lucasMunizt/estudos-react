@@ -1,0 +1,47 @@
+/*const handlePrev = (e) => {
+    const t = document.querySelector('ul');
+    if (t) {
+      t.style.transition = 'all 0.5s ease';
+      t.style.transform = 'translateX(+200px)';
+      t.style.marginRight = '300px'
+      t.style.backgroundColor =  'red'
+      t.style.position = 'fixed'
+      console.log("clicj")
+    }
+  };
+
+  const handleProv = () => {
+    const t = document.querySelector('ul');
+    const s = document.getElementById('ola1');
+    if (t) {
+     
+      t.style.transition = 'all 0.8s ease';
+      t.style.transform = 'translateX(-200px)';
+      t.style.display='flex';
+      t.style.justifyContent = 'center'
+      t.style.alignItems = 'center'
+      t.style.marginLeft = '300px'
+      console.log("clicj")
+    }
+
+    Manipulação do card específico
+    
+  };*/  
+  
+  
+  <>
+      <div className="container">
+        {/* <button className="carousel-controls-left" onClick={handlePrev}>←</button> */}
+        <div className='testando'>
+         <h1>ola</h1>
+          {/* <ul>
+            <li><Card img={fruta} id="ola1" /></li>
+            <li><Card img={fruta2} /></li>
+            <li><Card img={fruta2} /></li>
+            <li><Card img={fruta2} /></li>
+            <li><Card img={fruta} id="ola" /></li>
+          </ul> */}
+        </div>
+        {/* <button className="carousel-controls-right" onClick={handleProv}>→</button> */}
+      </div>
+    </>

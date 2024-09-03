@@ -1,0 +1,64 @@
+
+.conatiner-card{
+    background-color: #ffff;
+    
+    width: 300px;
+    height: 300px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgb(177, 177, 177) 1px 1px 1px 1px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+h4{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+
+/* .card-img{
+    background-image: url('../assets/fruta.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
+    margin-bottom: 20px;
+
+    padding: 0;
+} */
+
+.card-img {
+    width: 100%; /* Faz com que a imagem ocupe toda a largura disponível */
+    height: 60%; /* Ajusta a altura da imagem conforme necessário */
+    overflow: hidden; /* Garante que a imagem não ultrapasse os limites do contêiner */
+}
+
+.card-img img {
+  width: 300px;
+  height: 150px;
+  object-fit: cover; /* Ajusta a imagem para cobrir o contêiner sem distorção */
+}
+
+.text-informacao{
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.text-informacao h5{
+    margin-bottom: 10px;
+}
+
+.h5-nutricao{
+    margin-top: 10px;
+}
+
+#test{
+   overflow: hidden;
+   background-color: red;
+}
