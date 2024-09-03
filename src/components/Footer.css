@@ -1,0 +1,52 @@
+.footer{
+    background-color: #70c9b6;
+    margin-top: 90px; 
+    padding: 40px;
+}
+
+.iform-rodape{
+    display: flex;
+    justify-content:space-between;
+}
+
+.horarios ul li h2{
+    font-family: 'Bodoni Moda', serif;
+    color:black ;
+}
+
+.horarios ul li h4{
+    font-family: 'Roboto', sem serifa;
+    font-size: 18px;
+    color: black;
+    margin-top: 3px; 
+}
+
+.forma-pagamento ul li h4{
+    margin-top: 3px;
+    font-family: 'Roboto', sem serifa;
+}
+
+.forma-pagamento ul li img{
+    width: 165px;
+    height: 65px;
+}
+
+.contato  {
+   position:fixed;
+   width:  50px;
+   height: 50px;
+   bottom: 40px;
+   right: 15px;
+   background-color: #30b99c;
+   border-radius: 50px;
+   text-align: center;
+   font-size: 30px;
+   box-shadow: 1px 1px 2px #888;
+   z-index: 1000;
+   cursor: pointer;
+}
+
+.fa-whatsapp {
+    margin-top: 10px;
+    color: #fff;
+}

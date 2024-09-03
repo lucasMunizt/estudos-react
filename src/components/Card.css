@@ -1,0 +1,27 @@
+
+
+h1,h5{
+    align-items: center;
+    text-align: center;
+    color: rgb(93, 182, 152);
+}
+
+.card{
+    width: 400px;
+    height: 340px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgb(177, 177, 177) 1px 1px 1px 1px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    padding: 20px;
+    margin-top: 20px;
+ 
+}
+
+p{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}

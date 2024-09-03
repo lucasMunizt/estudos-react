@@ -1,0 +1,16 @@
+.butao {
+    margin-top: 30px;
+}
+
+.butao a {
+    background-color: #f49623;  
+    color: aliceblue;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.butao:hover a{
+    background-color:#e69b3a;
+}
