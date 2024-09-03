@@ -34,7 +34,7 @@ const Card = () => {
         <h1>Comntarios</h1>
         <Swiper
         slidesPerView={1}
-        spaceBetween={10}
+        spaceBetween={0}
         freeMode={true}
         pagination={{
           clickable: true,
