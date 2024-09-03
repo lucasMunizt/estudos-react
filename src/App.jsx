@@ -66,7 +66,7 @@ function App() {
       </Swiper>
         
       </div>
-      <area shape="" coords="" href="" alt="" />
+ 
     </>
   );
 }
