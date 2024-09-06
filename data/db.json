@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": "50.50"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": "20.00"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": "40.00"
+    },
+    {
+      "id": 4,
+      "name": "lucas",
+      "price": "123"
+    },
+    {
+      "id": 5,
+      "name": "adsaf",
+      "price": "12"
+    },
+    {
+      "id": 6,
+      "name": "fcdsgfd",
+      "price": "5446"
+    },
+    {
+      "id": "9c72",
+      "name": "gfgnbnh",
+      "price": "324"
+    },
+    {
+      "id": "f8b2",
+      "name": "test",
+      "price": "23"
+    }
+  ]
+}
